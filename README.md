@@ -1,7 +1,7 @@
-# 🎌 Konnichiwa! I'm José (Ghostroot2030)
+# Konnichiwa! I'm José (Ghostroot2030)
 
 ### 🇧🇷 Sobre mim / About Me
-Tenho 13 anos e moro em São Paulo. Meu grande objetivo é conquistar a bolsa **MEXT** para estudar e trabalhar com **Red Team (Offensive Security)** no Japão. Sou resiliente e apaixonado por tecnologia.
+Tenho 13 anos e Meu grande objetivo é conquistar a bolsa **MEXT** para estudar e trabalhar com **Red Team (Offensive Security)** no Japão. Sou resiliente e apaixonado por tecnologia.
 
 ---
 
@@ -20,7 +20,7 @@ Tenho 13 anos e moro em São Paulo. Meu grande objetivo é conquistar a bolsa **
 ---
 
 ### 🇯🇵 自己紹介 (Jikoshoukai)
-はじめまして。ジョゼと申します。
+はじめまして。ジョゼと申します。# 
 
 日本でサイバーセキュリティを学びたいです。
 
